@@ -1359,7 +1359,7 @@ canvas:not(#ribbon-canvas),
   --dark-grey: #cacaca;
   --white: #fff;
   --text-highlight-color: #1f2d3d;
-  --blockquote-color: #6a737d;
+  --blockquote-color: #000;
   --blockquote-bg: rgba(73,177,245,0.1);
   --reward-pop: #f5f5f5;
   --toc-link-color: #666261;
@@ -5612,7 +5612,7 @@ blockquote.pullquote.right {
   }
 }
 .read-mode {
-  --font-color: #4c4948;
+  --font-color: #000;
   --readmode-light-color: #fff;
   --white: #4c4948;
   --light-grey: #4c4948;
